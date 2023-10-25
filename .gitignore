@@ -17,3 +17,6 @@ venv/
 ENV/ 
 env.bak/ 
 venv.bak/ 
+
+# macOS-specific files
+.DS_Store
