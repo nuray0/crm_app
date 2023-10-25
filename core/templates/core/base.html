@@ -1,0 +1,37 @@
+{% load static %}
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="{% static 'main.min.css' %}">
+        <title>{% block title %}{% endblock %}</title>
+    </head>
+    <body>
+
+        {% include 'core/partials/nav.html' %}
+
+        {% if messages %}
+        <div class="px-6 py-6"></div>
+            {% for message in messages %}
+                {% if message.tags == "error" %}
+                <div class="px-4 py-6 bg-red-400 rounded-xl text-white">
+                    {{ message }}
+                </div>
+                {% else %}
+                <div class="px-4 py-4 bg-teal-300 rounded-xl text-white">
+                    {{ message }}
+                </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <div class="py-6 px-6">
+            {% block content %}
+            {% endblock %}
+        </div>
+
+        {% include 'core/partials/footer.html' %}
+    </body>
+</html>

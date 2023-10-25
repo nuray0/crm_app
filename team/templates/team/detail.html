@@ -1,0 +1,26 @@
+{% extends 'core/base.html' %}
+
+{% block title %}{{ team.name }}{% endblock %}
+
+{% block content %}
+    <h1 class="text-xl mb-6">{{ team.name }}</h1>
+
+    <a href="{% url 'team:list' %}" class="inline-block py-4 px-6 bg-teal-500 text-white rounded-xl">Switch team</a>
+
+    {% if team.created_by == request.user %}
+            <a href="{% url 'team:edit' team.id %}" class="inline-block py-4 px-6 bg-blue-500 text-white rounded-xl">Edit</a>
+    {% endif %}
+
+    <hr class="my-4">
+
+    <strong class="mt-6">Team owner:</strong> {{team.created_by }}
+
+    <hr class="my-4">
+
+    <h2 class="font-semibold">Team members:</h2>
+
+    {% for member in team.members.all %}
+        <P>{{ member.username }}</P>
+    {% endfor %}
+
+{% endblock %}
