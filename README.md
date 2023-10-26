@@ -21,5 +21,11 @@
 <p>
     The about page:
     <br>
-    <img style="margin:4px; width:80%" src="src/images-readme/about-page.jpg">
+    <img style="width:80%" src="src/images-readme/about-page.jpg">
+</p>
+
+<p align="center"> 
+  <kbd>
+<img src="src/images-readme/signup-page.jpg"></img>
+  </kbd>
 </p>
