@@ -10,3 +10,8 @@
 6. Change the pre-assigned, default team name
 7. Change teams, if the user is a member of more than 1 team
 8. Apply restrictions to numbers of allowed leads and clients for the basic, default plan
+
+
+<p>
+    <img src="src/images-readme/about-page.jpg"></img>
+</p>
