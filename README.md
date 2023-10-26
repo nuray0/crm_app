@@ -14,6 +14,6 @@
 
 <p>
 The about page:
-    <img style="display:block; width:80%" src="src/images-readme/about-page.jpg">
-    <BR CLEAR=ALL />
+<br>
+    <img style="width:80%" src="src/images-readme/about-page.jpg">
 </p>
