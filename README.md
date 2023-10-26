@@ -12,15 +12,14 @@
 8. Apply restrictions to numbers of allowed leads and clients for the basic, default plan
 
 
-<dev align="center">
-    <p>
-        The front page
-    </p>
+<p>The front page</p>
+<p align="center">
     <img style="width:70%" src="src/images-readme/front-page.jpg">
-</dev>
+</p>
 
-<p>
+<p align="center">
     The about page:
     <br>
-    <img align="center" style="width:70%" src="src/images-readme/about-page.jpg">
+    <img style="width:70%" src="src/images-readme/about-page.jpg">
 </p>
+
