@@ -12,6 +12,6 @@
 8. Apply restrictions to numbers of allowed leads and clients for the basic, default plan
 
 
-<p>
-    <center><img style="width: 50%" src="src/images-readme/about-page.jpg"></center>
+<p align="center">
+    <img src="src/images-readme/about-page.jpg">
 </p>
