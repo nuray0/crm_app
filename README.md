@@ -25,7 +25,8 @@
 </p>
 
 <p align="center"> 
-  <kbd>
-<img src="src/images-readme/signup-page.jpg"></img>
-  </kbd>
+    The sign up page
+    <kbd>
+    <img style="width:80%"  src="src/images-readme/signup-page.jpg">
+    </kbd>
 </p>
