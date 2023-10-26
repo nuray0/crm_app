@@ -21,5 +21,5 @@
 <p>
     The about page:
     <br>
-    <img style="margin:4; width:80%" src="src/images-readme/about-page.jpg">
+    <img style="margin:4px; width:80%" src="src/images-readme/about-page.jpg">
 </p>
