@@ -13,5 +13,5 @@
 
 
 <p>
-    <img src="src/images-readme/about-page.jpg">
+    <img style="width:50%" src="src/images-readme/about-page.jpg">
 </p>
