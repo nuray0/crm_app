@@ -13,5 +13,5 @@
 
 
 <p>
-    <center><img style="width: 80%" src="src/images-readme/about-page.jpg"></center>
+    <center><img style="width: 50%" src="src/images-readme/about-page.jpg"></center>
 </p>
