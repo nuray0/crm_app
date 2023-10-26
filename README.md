@@ -32,13 +32,62 @@
     <img style="width:90%" src="src/images-readme/login-page.jpg">
 </p>
 
+
+<!--Team-->
+
 ## Team
 <p align="center">
     <img style="width:90%" src="src/images-readme/team/team-details.jpg">
 </p>
+
+<p align="center">
+    <img style="width:90%" src="src/images-readme/team/team-edit.jpg">
+</p>
+
+<p align="center">
+    <img style="width:90%" src="src/images-readme/team/team-edit-success.jpg">
+</p>
+
+<p align="center">
+    <img style="width:90%" src="src/images-readme/team/team-details.jpg">
+</p>
+
+<p align="center">
+    <img style="width:90%" src="src/images-readme/team/team-switch.jpg">
+</p>
+
+
+<!--Leads-->
 
 ## Leads
 <p align="center">
     <img style="width:90%" src="src/images-readme/lead/lead-empty.jpg">
 </p>
 
+<p align="center">
+    <img style="width:90%" src="src/images-readme/lead/lead-add.jpg">
+</p>
+
+<p align="center">
+    <img style="width:90%" src="src/images-readme/lead/lead-list.jpg">
+</p>
+
+<p align="center">
+    <img style="width:90%" src="src/images-readme/lead/lead-details.jpg">
+</p>
+
+<p align="center">
+    <img style="width:90%" src="src/images-readme/lead/lead-edit.jpg">
+</p>
+
+<p align="center">
+    <img style="width:90%" src="src/images-readme/lead/lead-converted-to-client.jpg">
+</p>
+
+<p align="center">
+    <img style="width:90%" src="src/images-readme/lead/lead-limit.jpg">
+</p>
+
+<p align="center">
+    <img style="width:90%" src="src/images-readme/lead/lead-export-csv.jpg">
+</p>
