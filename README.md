@@ -73,6 +73,10 @@
 </p>
 
 <p align="center">
+    <img style="width:90%" src="src/images-readme/lead/lead-limit.jpg">
+</p>
+
+<p align="center">
     <img style="width:90%" src="src/images-readme/lead/lead-details.jpg">
 </p>
 
@@ -82,10 +86,6 @@
 
 <p align="center">
     <img style="width:90%" src="src/images-readme/lead/lead-converted-to-client.jpg">
-</p>
-
-<p align="center">
-    <img style="width:90%" src="src/images-readme/lead/lead-limit.jpg">
 </p>
 
 <p align="center">
