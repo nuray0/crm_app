@@ -14,11 +14,31 @@
 
 ## The front page
 <p align="center">
-    <img style="width:100%" src="src/images-readme/front-page.jpg">
+    <img style="width:90%" src="src/images-readme/front-page.jpg">
 </p>
 
 ## The about page
 <p align="center">
     <img style="width:90%" src="src/images-readme/about-page.jpg">
+</p>
+
+## The sign up page
+<p align="center">
+    <img style="width:90%" src="src/images-readme/signup-page.jpg">
+</p>
+
+## The login page
+<p align="center">
+    <img style="width:90%" src="src/images-readme/login-page.jpg">
+</p>
+
+## Team
+<p align="center">
+    <img style="width:90%" src="src/images-readme/team/team-details.jpg">
+</p>
+
+## Leads
+<p align="center">
+    <img style="width:90%" src="src/images-readme/lead/lead-empty.jpg">
 </p>
 
