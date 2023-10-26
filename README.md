@@ -14,7 +14,7 @@
 
 ## The front page
 <p align="center">
-    <img style="width:70%" src="src/images-readme/front-page.jpg">
+    <img style="width:100%" src="src/images-readme/front-page.jpg">
 </p>
 
 ## The about page
