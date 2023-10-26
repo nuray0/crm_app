@@ -13,6 +13,12 @@
 
 
 <p>
+The front page:
+<br>
+    <img style="width:80%" src="src/images-readme/front-page.jpg">
+</p>
+
+<p>
 The about page:
 <br>
     <img style="width:80%" src="src/images-readme/about-page.jpg">
