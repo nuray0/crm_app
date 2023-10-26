@@ -13,5 +13,5 @@
 
 
 <p>
-    <img style="display:block; margin: 0 auto; width: 80%" src="src/images-readme/about-page.jpg"></img>
+    <img style="display:block; margin-left:auto; margin-right:auto; width: 80%" src="src/images-readme/about-page.jpg"></img>
 </p>
