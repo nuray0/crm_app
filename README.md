@@ -19,6 +19,6 @@
 
 ## The about page
 <p align="center">
-    <img style="width:70%" src="src/images-readme/about-page.jpg">
+    <img style="width:90%" src="src/images-readme/about-page.jpg">
 </p>
 
