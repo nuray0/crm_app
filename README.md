@@ -19,8 +19,8 @@
     <img style="width:70%" src="src/images-readme/front-page.jpg">
 </dev>
 
-<p align="center">
+<p>
     The about page:
     <br>
-    <img style="width:70%" src="src/images-readme/about-page.jpg">
+    <img align="center" style="width:70%" src="src/images-readme/about-page.jpg">
 </p>
