@@ -42,10 +42,10 @@
 When a user signs up, a new team gets created with the name "The team name" and the user is added as a member of this team. After logging in, the user can edit the team name or switch teams, if the user is a member of more than 2 teams.
 
 <p align="center">
-    <img style="width:90%" src="src/images-readme/team/team-details.jpg">
+    <img style="width:100%" src="src/images-readme/team/team-details.jpg">
 </p>
 
-Editing the team name, to Superteam in this case:
+<p>Editing the team name, to Superteam in this case:</p>
 
 <p align="center">
     <img style="width:90%" src="src/images-readme/team/team-edit.jpg">
@@ -57,13 +57,13 @@ When an action was successful, the app returns the user to the account page and 
     <img style="width:90%" src="src/images-readme/team/team-edit-success.jpg">
 </p>
 
-By pressing on the "Switch team" button on team's details page, he user can view the list of teams the user is a member of. A team can be activated by pressing "Activate team" button.
+By pressing on the "Switch team" button on team's details page, he user can view the list of teams the user is a member of. A team can be activated by pressing "Activate team" button:
 
 <p align="center">
     <img style="width:90%" src="src/images-readme/team/team-switch.jpg">
 </p>
 
-The active team gets green background
+The active team gets green background:
 
 <p align="center">
     <img style="width:90%" src="src/images-readme/team/team-switch-success.jpg">
